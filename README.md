@@ -1,11 +1,17 @@
 ### Hi there 👋
 I am an aspiring professional Front-End software developer who is ready to learn new and better solutions for required tasks ahead. I've acquired many skills throughout my learning journey in:
 HTML,
+<br/>
 SCSS,
+<br/>
 TypeScript,
+<br/>
 React and Redux,
+<br/>
 Vue, and Vuex,
+<br/>
 and API requests.
+<br/>
 Currently, i am learning Pinia and Angular.
 
 Heres my LinkedIn in profile --> https://www.linkedin.com/in/roberts-lode/
