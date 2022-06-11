@@ -4,6 +4,7 @@ I am an aspiring professional Front-End software developer who is ready to learn
 Heres my Linked in profile --> https://www.linkedin.com/in/roberts-lode/
 
 ---
+
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="JavaScript" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="CSS" width="50" height="50"/>
@@ -11,6 +12,7 @@ Heres my Linked in profile --> https://www.linkedin.com/in/roberts-lode/
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="CSS" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="CSS" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="CSS" width="50" height="50"/>
+
 ---
 
 <!--
