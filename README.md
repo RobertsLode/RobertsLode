@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am an aspiring professional Front-End software developer who is ready to learn new and better solutions for required tasks ahead. I've acquired many skills throughout my learning journey in: HTML, SCSS, TypeScript, React and Redux, Vue, and Vuex, and API requests. Currently, i am learning Pinia and Angular.
+
+Heres my Linked in profile --> https://www.linkedin.com/in/roberts-lode/
 
 <!--
 **RobertsLode/RobertsLode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
