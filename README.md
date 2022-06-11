@@ -13,6 +13,7 @@ Heres my Linked in profile --> https://www.linkedin.com/in/roberts-lode/
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="CSS" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="CSS" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://pinia.vuejs.org/logo.svg" alt="CSS" width="50" height="50"/>
 </div>
 
 
