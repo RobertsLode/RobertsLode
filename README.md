@@ -3,7 +3,7 @@ I am an aspiring professional Front-End software developer who is ready to learn
 
 Heres my Linked in profile --> https://www.linkedin.com/in/roberts-lode/
 
-🧰 Toolbox
+
 ---
 <div style="display: flex">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="JavaScript" width="50" height="50"/> 
