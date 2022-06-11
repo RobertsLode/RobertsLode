@@ -4,8 +4,8 @@ I am an aspiring professional Front-End software developer who is ready to learn
 Heres my Linked in profile --> https://www.linkedin.com/in/roberts-lode/
 ---
 🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
 ---
 
 
