@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an aspiring professional Front-End software developer who is ready to learn new and better solutions for required tasks ahead. I've acquired many skills throughout my learning journey in:\
+Aspiring professional Front-End software developer who is ready to learn new and better solutions for required tasks ahead. I've acquired many skills throughout my learning journey in:\
 <br/>
 HTML,
 <br/>
