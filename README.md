@@ -11,9 +11,10 @@ React and Redux,
 <br/>
 Vue, and Vuex,
 <br/>
+Angular and Pinia,
+<br/>
 and API requests.
 <br/>
-Currently, i am learning Pinia and Angular.
 
 Heres my LinkedIn in profile --> https://www.linkedin.com/in/roberts-lode/
 
