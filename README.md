@@ -7,6 +7,8 @@ TypeScript,
 <br/>
 React and Redux,
 <br/>
+NodeJs
+<br/>
 Vue, and Vuex,
 <br/>
 Angular and Pinia,
