@@ -1,8 +1,6 @@
 ### Hi there 👋
 Aspiring professional Front-End software developer who is ready to learn new and better solutions for required tasks ahead. I've acquired many skills throughout my learning journey in:\
 <br/>
-HTML,
-<br/>
 SCSS,
 <br/>
 TypeScript,
@@ -43,6 +41,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronoun
 -->
