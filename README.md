@@ -1,6 +1,5 @@
 ### Hi there 👋
-Aspiring professional Full-stack software developer who is ready to learn new and better solutions for required tasks ahead. I've acquired many skills throughout my learning journey in:\
-
+Aspiring professional Full-stack software developer who is ready to learn new and better solutions for required tasks ahead. I've acquired many skills throughout my learning journey in:
 <br/>
 TypeScript,
 <br/>
