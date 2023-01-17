@@ -1,9 +1,13 @@
 ### Hi there 👋
-Aspiring professional Front-End software developer who is ready to learn new and better solutions for required tasks ahead. I've acquired many skills throughout my learning journey in:\
+Aspiring professional Full-stack software developer who is ready to learn new and better solutions for required tasks ahead. I've acquired many skills throughout my learning journey in:\
 <br/>
 SCSS,
 <br/>
 TypeScript,
+<br/>
+Exxpress,
+<br/>
+MongoDB,
 <br/>
 React and Redux,
 <br/>
