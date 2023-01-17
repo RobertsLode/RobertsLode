@@ -1,7 +1,6 @@
 ### Hi there 👋
 Aspiring professional Full-stack software developer who is ready to learn new and better solutions for required tasks ahead. I've acquired many skills throughout my learning journey in:\
-<br/>
-SCSS,
+
 <br/>
 TypeScript,
 <br/>
@@ -17,7 +16,7 @@ Vue, and Vuex,
 <br/>
 Angular and Pinia,
 <br/>
-and API requests.
+SCSS,
 <br/>
 
 Heres my LinkedIn in profile --> https://www.linkedin.com/in/roberts-lode/
